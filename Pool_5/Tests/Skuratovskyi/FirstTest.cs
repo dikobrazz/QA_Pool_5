@@ -9,5 +9,6 @@ namespace Pool_5.Tests.Skuratovskyi
     class FirstTest
     {
         // test
+        // test 2
     }
 }
